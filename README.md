@@ -1,0 +1,2 @@
+# myObject
+the simple object
